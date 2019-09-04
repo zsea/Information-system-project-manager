@@ -1,0 +1,28 @@
+# Summary
+
+* [介绍](README.md)
+* [计算机知识](Computer-knowledge/README.md)
+    * [信息系统开发基础](Computer-knowledge/Information-system-development-foundation/README.MD)
+        * [信息系统建设](Computer-knowledge/Information-system-development-foundation/Information-system-construction.md)
+        * [软件工程](Computer-knowledge/Information-system-development-foundation/Software-engineering.md)
+        * [面向对象技术](Computer-knowledge/Information-system-development-foundation/Object-oriented-technology.md)
+    * [信息化与系统集成技术](Computer-knowledge/Information-and-System-Integration-Technology.md)
+    * [计算机网络基础](Computer-knowledge/Computer-network-foundation.md)
+    * [信息系统安全管理](Computer-knowledge/Information-system-security-management.md)
+    * [知识产权与标准化知识](Computer-knowledge/Intellectual-property-and-standardization-knowledge.md)
+    * [信息系统服务管理](Computer-knowledge/Information-system-service-management.md)
+* [项目管理知识](Project-management-knowledge/README.md)
+    * [项目管理基础知识](Project-management-knowledge/Basic-knowledge.md)
+    * [立项管理]
+    * [整合管理]
+    * [范围管理]
+    * [时间（进度）管理]
+    * [成本管理]
+    * [质量管理]
+    * [人力资源管理]
+    * [干系人管理]
+    * [沟通管理]
+    * [风险管理]
+    * [采购管理]
+    * [配置管理]
+

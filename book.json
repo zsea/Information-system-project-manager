@@ -1,0 +1,41 @@
+{
+    "title": "《信息系统项目管理师》学习笔记",
+    "author": "曾大海",
+    "description": "本书为《信息系统项目管理师》的学习笔记，着重在提升自己记忆。",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Blog": "http://zsea.me"
+        }
+    },
+    "plugins": [
+        "-search",
+        "-sharing",
+        "search-pro",
+        "github",
+        "katex",
+        "tbfed-pagefooter",
+        "anchors",
+        "3-ba",
+        "mermaid-gb3"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": [
+                "Gitbook Use"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/zsea/Information-system-project-manager"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 曾大海 2019",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "3-ba": {
+            "token": "217a13ce35c47f7eef356dfeed28d338"
+        }
+    }
+}
