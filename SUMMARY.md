@@ -15,7 +15,7 @@
     * [项目管理基础知识](Project-management-knowledge/Basic-knowledge.md)
     * [立项管理]
     * [整合管理]
-    * [范围管理]
+    * [范围管理](Project-management-knowledge/scope.md)
     * [时间（进度）管理]
     * [成本管理]
     * [质量管理]
@@ -25,4 +25,5 @@
     * [风险管理]
     * [采购管理]
     * [配置管理]
+    * [输入输出流](Project-management-knowledge/input-ouput-stream.md)
 
