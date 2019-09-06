@@ -1,10 +1,9 @@
-::璇ヨ剼鏈嚜鍔ㄩ儴缃插埌gh-pages鍒嗘敮
-::闇�瑕佸畨瑁単h-pages锛宯pm install -g gh-pages
+::该脚本自动部署到gh-pages分支
+::需要安装gh-pages，npm install -g gh-pages
 @echo off
-chcp 65001
-echo 姝ｅ湪缂栬瘧...
+echo 正在编译...
 call gitbook build
-echo 姝ｅ湪鍙戝竷...
+echo 正在部署...
 call gh-pages -d _book
-echo 鍙戝竷鎴愬姛
+echo 部署成功！
 @echo on
