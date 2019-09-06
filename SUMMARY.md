@@ -21,7 +21,7 @@
     * [质量管理]
     * [人力资源管理]
     * [干系人管理]
-    * [沟通管理]
+    * [沟通管理](Project-management-knowledge/communication.md)
     * [风险管理]
     * [采购管理]
     * [配置管理]
