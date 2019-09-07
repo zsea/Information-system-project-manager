@@ -59,6 +59,31 @@ graph TB;
     J --> K
 ```
 
+**工具**
+
+* P/O矩阵
+
+    ![P/O矩阵](/assests/images/po.png)
+
+    > 表示过程(Process)和组织(Organization)的关系，主要用在定义企业过程。
+
+    > √表示负责，*表示涉及，+也表示涉及
+
+* R/D矩阵
+
+    ![R/D矩阵](/assests/images/rd.png)
+
+    > 表示资源(Resoure)和数据(Data)的关系，是一个定义数据的工具。
+
+    > **可用于归纳数据**。
+
+* C/U矩阵
+
+    ![C/U矩阵](/assests/images/cu.png)
+
+    > 表示创建(Create)与使用(Use)的关系，过程与数据的关系。
+
+
 **原则**
 
 * 支持企业战略目标

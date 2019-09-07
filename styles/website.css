@@ -1,3 +1,6 @@
 h2{
     border-bottom: 1px solid rgb(239,234,234);
 }
+body{
+    overflow: hidden;
+}
