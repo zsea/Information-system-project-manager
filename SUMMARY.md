@@ -18,7 +18,7 @@
     * [范围管理](Project-management-knowledge/scope.md)
     * [时间（进度）管理]
     * [成本管理]
-    * [质量管理]
+    * [质量管理](Project-management-knowledge/quality.md)
     * [人力资源管理]
     * [干系人管理]
     * [沟通管理](Project-management-knowledge/communication.md)
