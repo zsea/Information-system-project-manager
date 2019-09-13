@@ -303,7 +303,7 @@ Perform Quality Assurance
 
 #### 优先矩阵图
 
-识别关键事项和备案方案。
+识别关键事项和备选方案。
 
 ![优先矩阵图](/assests/images/7-n-first-matrix.png)
 
