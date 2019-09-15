@@ -475,4 +475,4 @@ graph LR;
 * 测试工具
     > LoadRunner
 * 项目管理工具
-    > Project,Clearcase,VSS,CVS
+    > Project,Clearcase,VSS,CVS,git
